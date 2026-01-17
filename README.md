@@ -7,7 +7,7 @@ This repository contains the source code for the "Python Fast Track" course. The
 ---
 
 ## 📺 Video Tutorial
-**Watch the full course here:** [Click to Watch Full Tutorial](https://www.youtube.com/playlist?list=PL7kitcmP3RiO724GV3Fmb1MHEp0g9RYnJ)
+**Watch the full course here:** [Click to Watch Full Tutorial](https://youtu.be/U928X3D9QgE)
 
 **Watch the full tutorial playlist here:** [Click to Watch Playlist](https://www.youtube.com/playlist?list=PL7kitcmP3RiO724GV3Fmb1MHEp0g9RYnJ)
 
